@@ -71,7 +71,9 @@ body{font-family: "Roboto", sans-serif;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42;}
+        color: #2e2f42;
+        background-color: #F4F4FD}
+
 .ben-text{font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -85,12 +87,14 @@ body{font-family: "Roboto", sans-serif;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;}
 
 .name-logo{font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        background-color: #FFFFFF;
         color: #2e2f42;}
 
  .name-text{font-weight: 400;
