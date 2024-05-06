@@ -26,6 +26,7 @@ body{font-family: "Roboto", sans-serif;
         line-height: 1.5;
         letter-spacing: 0.02em;
        }
+
 .menu-link:hover,
 .menu-link:focus{color:#404BBF;}
 
@@ -34,7 +35,106 @@ body{font-family: "Roboto", sans-serif;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;}
+
 .address-link:hover,
 .address-link:focus{color: #404bbf;}
 
+
         /* ----- HERO STYLES ----- */
+.hero-section{width: 1440px;
+        height: 600px;
+        background: #2e2f42;}
+
+.hero-title{font-weight: 700;
+        font-size: 56px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;}
+.button{font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background: #4d5ae5;}
+
+.button:hover,
+.button:focus{background: #404bbf;}
+
+        /* ----- BENEFITS STYLES ----- */
+
+ .ben-title,.ben-logo{font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;}
+.ben-text{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;}
+
+
+        /* ----- REVIEWS STYLES ----- */
+
+.reviews-title{font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        text-align: center;}
+
+.name-logo{font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;}
+
+ .name-text{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;}
+
+
+        /* ----- PORTFOLIO STYLES ----- */ 
+
+
+.portfolio-title{font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        text-align: center;}
+
+.portfolio-logo{font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;}
+
+.portfolio-text{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;}
+
+
+        
+        /* ----- FOOTER STYLES ----- */
+
+.footer{width: 1440px;
+        height: 312px;
+        background: #2e2f42;}
+        
+.footer-logo{font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;}
+
+.logo-span-footer{color: #4d5ae5}
+
+.text-footer{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;}
+
