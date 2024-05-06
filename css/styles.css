@@ -11,6 +11,8 @@ body{font-family: "Roboto", sans-serif;
 
       /* ----- HEADER STYLES ----- */
 
+.page-hader{line-height:1.17;}
+
 .logo{font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -30,22 +32,28 @@ body{font-family: "Roboto", sans-serif;
        }
 
 .menu-link:hover,
-.menu-link:focus{color:#404BBF;}
-
-.address-link{font-weight: 400;
+.menu-link:focus{font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        font-style:normal}
+        color:#404BBF;}
 
-.address-link:hover,
-.address-link:focus{color: #404bbf;}
+.address-item{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color:#434455;}
+
+.address-itemk:hover,
+.address-item:focus{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #404bbf;}
 
 
         /* ----- HERO STYLES ----- */
-.hero-section{width: 1440px;
-        height: 600px;
-        background: #2e2f42;}
+.hero-section{background: #2e2f42;}
 
 .hero-title{font-weight: 700;
         font-size: 56px;
@@ -54,16 +62,15 @@ body{font-family: "Roboto", sans-serif;
         text-align: center;
         color: #ffffff;}
 
-.button{font-family: "Roboto", sans-serif;
-        font-weight: 500;
+.button-item{font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #ffffff;
         background: #4d5ae5;}
 
-.button:hover,
-.button:focus{background: #404bbf;}
+.button-item:hover,
+.button-item:focus{background: #404bbf;}
 
         /* ----- BENEFITS STYLES ----- */
 
