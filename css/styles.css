@@ -36,7 +36,7 @@ body{font-family: "Roboto", sans-serif;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        font-style: normal}
+        font-style:normal}
 
 .address-link:hover,
 .address-link:focus{color: #404bbf;}
