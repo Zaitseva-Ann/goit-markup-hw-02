@@ -95,7 +95,7 @@ body{font-family: "Roboto", sans-serif;
 
 
         /* ----- REVIEWS STYLES ----- */
-.reviews{background-color:#FFFFFF;}
+.reviews{background-color: #F4F4FD;}
 
 .reviews-title{font-weight: 700;
         font-size: 36px;
@@ -116,6 +116,7 @@ body{font-family: "Roboto", sans-serif;
  .name-text{font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
+        background-color: #F4F4FD;
         letter-spacing: 0.02em;}
 
 
