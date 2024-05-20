@@ -1,9 +1,27 @@
 /* ----- COMMONS STYLES ----- */
 
-ul, ol {list-style-type: none;}
+h1,h2,h3,p { margin-top: 0;
+             margin-bottom: 0;
+
+}
+
+ul, ol { margin-top: 0;
+         margin-bottom: 0;
+         padding-left: 0;
+         list-style-type: none;}
+
 a {color: inherit;
    text-decoration: none;}
 button {cursor: pointer;}
+
+.container { max-width: 1158;
+             padding-left: 15;
+             padding-right: 15;
+             margin-left: auto;
+             margin-right: auto;
+}
+
+img { display: block;}
 
 body{font-family: "Roboto", sans-serif;
      color:#434455;
